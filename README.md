@@ -37,36 +37,65 @@ This isn't just a dashboard — this is a **full data journey**. The raw result 
 
 ### 🏠 Home — Overview Dashboard
 > *High-level KPIs: total students, pass/fail counts, SGPA distribution, and top rankers at a glance.*
+<img width="1199" height="679" alt="Screenshot 2026-06-10 201202" src="https://github.com/user-attachments/assets/464d9cab-58d0-4508-82ff-025918c6d1b6" />
 
-![Home Dashboard](./screenshots/home.png)
 
 ---
 
 ### 📈 SGPA & Performance Analysis
 > *Division-wise SGPA comparison, pass %, scatter plot of SGPA vs Total Marks.*
 
-![SGPA Performance](./screenshots/sgpa_performance.png)
+<img width="1211" height="670" alt="Screenshot 2026-06-10 201216" src="https://github.com/user-attachments/assets/3c826882-b487-402b-8814-7e8928fdbf67" />
+
 
 ---
 
 ### 🧠 Aptitude & Reasoning
 > *Grade distribution, internal vs external marks scatter, division-wise averages.*
 
-![Aptitude](./screenshots/aptitude.png)
+<img width="1206" height="669" alt="Screenshot 2026-06-10 201232" src="https://github.com/user-attachments/assets/656071d9-8964-4939-8bc4-62987ad33099" />
+
 
 ---
 
 ### 🔬 Subject Pages (NLP · DL · Design Thinking · MOOC · Mini Project)
 > *Individual subject dashboards with topper highlights, grade rings, and division comparisons.*
 
-![Subjects](./screenshots/subjects.png)
+<img width="1210" height="671" alt="Screenshot 2026-06-10 201311" src="https://github.com/user-attachments/assets/29e451b4-b6fa-4ebd-baad-76d48984ebe7" />
+
+
+
+<img width="1209" height="669" alt="Screenshot 2026-06-10 201325" src="https://github.com/user-attachments/assets/8e08e61c-73d8-467a-a3bb-b8d1c2a9e9bd" />
+
+
+<img width="1209" height="670" alt="Screenshot 2026-06-10 201337" src="https://github.com/user-attachments/assets/b1d98584-ddfc-49c8-b8c8-283ed4ca52e1" />
+
+
+
+<img width="1212" height="673" alt="Screenshot 2026-06-10 201351" src="https://github.com/user-attachments/assets/a19977be-845e-442a-b771-842d1708eaf6" />
+
+<img width="1209" height="674" alt="Screenshot 2026-06-10 201422" src="https://github.com/user-attachments/assets/839407ad-761b-4d61-a93b-be535e8d0b4f" />
+<img width="1211" height="674" alt="Screenshot 2026-06-10 201404" src="https://github.com/user-attachments/assets/c7c924dd-002f-4908-b6e1-85d184a03712" />
+
+
+<img width="1210" height="673" alt="Screenshot 2026-06-10 201451" src="https://github.com/user-attachments/assets/4926d8aa-f38d-4bd3-a687-e14956644143" />
+
+
+
+
 
 ---
 
 ### ⚔️ Subject & Student Comparison
 > *Side-by-side student comparison with subject-level internal, external, and total marks.*
 
-![Comparison](./screenshots/comparison.png)
+<img width="1212" height="679" alt="Screenshot 2026-06-10 201502" src="https://github.com/user-attachments/assets/d7e5e900-b591-444a-a420-50d1ff44c72e" />
+
+
+<img width="1212" height="677" alt="Screenshot 2026-06-10 201551" src="https://github.com/user-attachments/assets/344ec3f9-ed7d-4723-93a5-0696fbf597ad" />
+
+
+
 
 </div>
 
